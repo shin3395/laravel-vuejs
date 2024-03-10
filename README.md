@@ -1,5 +1,8 @@
 # laravel-vuejs
-
+- laravel 10
+- install nodejs
+- install php
+- install docker desktop
 ## Features
 
 The following Sanctum features are implemented in this Vue SPA:
